@@ -1,0 +1,26 @@
+﻿==============
+STEP 1: create folder for which we want to take backup to git .
+
+
+==============
+
+
+STEP2:  Inside folder create any file we want to save .
+
+
+==============
+
+
+STEP3:  Now on search bar select the location and write cmd and it will go to command prompt.
+
+
+==============
+  
+
+STEP4:  command 1st:( git init )
+
+
+======================================================================
+
+
+STEP5: command 2nd: To save particular file to git:
